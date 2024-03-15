@@ -17,3 +17,5 @@ default = []
 
 [dependencies]
 anchor-lang = "0.29.0"
+secp256k1 = "0.28.2"
+rand = "0.8.4"
